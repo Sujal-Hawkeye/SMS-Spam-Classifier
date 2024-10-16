@@ -13,16 +13,15 @@ You can download this dataset from various sources, including Kaggle.
 We'll use the following process:
 
 Data Preprocessing:
-
 Convert text to lowercase.
 Tokenization (breaking text into individual words).
 Removing stopwords and punctuation.
 Stemming (reducing words to their base form).
+
 Feature Extraction:
-
 Convert text into numerical features using techniques like Bag of Words or TF-IDF (Term Frequency-Inverse Document Frequency).
-Model Training:
 
+Model Training:
 Train a machine learning model using algorithms like Naive Bayes, Logistic Regression, or SVM.
 Model Evaluation:
 
